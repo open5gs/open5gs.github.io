@@ -33,3 +33,6 @@ If you find Open5GS useful for work, please consider supporting this Open Source
 <a href="https://www.accessparks.com/" target="_blank">
   <img src="https://open5gs.org/assets/img/AccessParks.png" style="width: 160px; vertical-align: middle;" alt="AccessPark">
 </a>
+<a href="https://skylarkwireless.com/" target="_blank">
+  <img src="https://open5gs.org/assets/img/SkylarkWireless-420x78-Web2-R.png" style="width: 160px; vertical-align: middle;" alt="AccessPark">
+</a>
