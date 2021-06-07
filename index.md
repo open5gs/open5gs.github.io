@@ -37,5 +37,5 @@ If you find Open5GS useful for work, please consider supporting this Open Source
   <img src="https://open5gs.org/assets/img/SkylarkWireless-420x78-Web2-R.png" style="width: 140px; vertical-align: middle; margin-left: 20px" alt="SkylarkWireless">
 </a>
 <a href="https://sysmocom.de/" target="_blank">
-  <img src="https://open5gs.org/assets/img/sysmocom-logo.png" style="width: 140px; vertical-align: middle; margin-left: 20px" alt="sysmocom">
+  <img src="https://open5gs.org/assets/img/sysmocom-logo.png" style="width: 140px; vertical-align: middle; margin: 20px; filter: invert(1);" alt="sysmocom">
 </a>
