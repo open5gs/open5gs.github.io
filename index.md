@@ -36,3 +36,6 @@ If you find Open5GS useful for work, please consider supporting this Open Source
 <a href="https://sysmocom.de/" target="_blank">
   <img src="https://open5gs.org/assets/img/sysmocom-logo-only.png" style="width: 140px; vertical-align: middle; margin: 20px;" alt="sysmocom">
 </a>
+<a href="https://www.p1sec.com/" target="_blank">
+  <img src="https://open5gs.org/assets/img/2021-logo-P1.svg" style="width: 140px; vertical-align: middle; margin: 20px;" alt="P1 Security">
+</a>
