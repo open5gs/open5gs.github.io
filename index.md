@@ -25,10 +25,10 @@ If you find Open5GS useful for work, please consider supporting this Open Source
 
 #### Sponsors
 <a href="https://www.auctionsoftware.com/" target="_blank">
-  <img src="https://open5gs.org/assets/img/asLogonew.png" style="width: 160px; vertical-align: middle; padding: 10px;" alt="AuctionSoftware">
+  <img src="https://open5gs.org/assets/img/asLogonew.png" style="width: 140px; vertical-align: middle; padding: 10px;" alt="AuctionSoftware">
 </a>
 <a href="https://www.wearetriple.com/" target="_blank">
-  <img src="https://open5gs.org/assets/img/triple_logo.png" style="width: 160px; vertical-align: middle; padding: 10px;" alt="Triple">
+  <img src="https://open5gs.org/assets/img/triple_logo.png" style="width: 140px; vertical-align: middle; padding: 10px;" alt="Triple">
 </a>
 <a href="https://skylarkwireless.com/" target="_blank">
   <img src="https://open5gs.org/assets/img/SkylarkWireless-420x78-Web2-R.png" style="width: 140px; vertical-align: middle; padding: 10px;" alt="SkylarkWireless">
