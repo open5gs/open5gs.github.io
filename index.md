@@ -14,7 +14,12 @@ For more information, visit to our blog :
 
 If you find Open5GS useful for work, please consider supporting this Open Source project by [Becoming a sponsor](https://github.com/sponsors/acetcom). To manage the funding transactions transparently, you can donate through [OpenCollective](https://opencollective.com/open5gs).
 
-#### Sponsors
+#### Gold Sponsors
+<a href="http://wavemobile.com/" target="_blank">
+  <img src="https://open5gs.org/assets/img/Wavemobile-Logo-Mark-RGB.png" style="width: 200px; vertical-align: middle; margin: 10px;" alt="NextEPC Logo">
+</a>
+
+#### Silver Sponsors
 <a href="https://www.auctionsoftware.com/" target="_blank">
   <img src="https://open5gs.org/assets/img/asLogonew.png" style="width: 140px; vertical-align: middle; padding: 10px;" alt="AuctionSoftware">
 </a>
