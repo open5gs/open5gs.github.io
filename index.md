@@ -20,9 +20,6 @@ If you find Open5GS useful for work, please consider supporting this Open Source
 </a>
 
 #### Silver Sponsors
-<a href="https://www.auctionsoftware.com/" target="_blank">
-  <img src="https://open5gs.org/assets/img/asLogonew.png" style="width: 140px; vertical-align: middle; padding: 10px;" alt="AuctionSoftware">
-</a>
 <a href="https://nextepc.com/" target="_blank">
   <img src="https://open5gs.org/assets/img/nextepc_logo.jpg" style="width: 140px; vertical-align: middle; padding: 10px;" alt="NextEPC">
 </a>
@@ -43,7 +40,4 @@ If you find Open5GS useful for work, please consider supporting this Open Source
 </a>
 <a href="https://www.ng-voice.com/" target="_blank">
   <img src="https://open5gs.org/assets/img/ng-voice-logo_color.png" style="width: 140px; vertical-align: middle; padding: 10px;" alt="ng-voice">
-</a>
-<a href="https://www.peratonlabs.com/" target="_blank">
-  <img src="https://open5gs.org/assets/img/peraton-labs-logo-full-color.png" style="width: 140px; vertical-align: middle; padding: 10px;" alt="Peraton Labs">
 </a>
