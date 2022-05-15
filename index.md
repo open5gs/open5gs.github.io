@@ -16,12 +16,12 @@ If you find Open5GS useful for work, please consider supporting this Open Source
 
 #### Platinum Sponsors
 <a href="https://teletresearch.com/" target="_blank">
-  <img src="https://open5gs.org/assets/img/Telet-logo-v2.png" style="width: 200px; vertical-align: middle; margin: 10px;" alt="Telet Research">
+  <img src="https://open5gs.org/assets/img/Telet-logo-v2.png" style="width: 280px; vertical-align: middle; margin: 10px;" alt="Telet Research">
 </a>
 
 #### Gold Sponsors
 <a href="http://wavemobile.com/" target="_blank">
-  <img src="https://open5gs.org/assets/img/Wavemobile-Logo-Mark-RGB.png" style="width: 200px; vertical-align: middle; margin: 10px;" alt="Wavemobile">
+  <img src="https://open5gs.org/assets/img/Wavemobile-Logo-Mark-RGB.png" style="width: 140px; vertical-align: middle; margin: 10px;" alt="Wavemobile">
 </a>
 
 #### Silver Sponsors
