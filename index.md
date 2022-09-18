@@ -1,4 +1,4 @@
-![Open5GS](https://open5gs.org/assets/img/open5gs_logo.png)
+![Open5GS](https://open5gs.org/assets/img/open5gs-logo.svg)
 
 
 ## Home
