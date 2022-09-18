@@ -1,4 +1,4 @@
-![Open5GS](https://open5gs.org/assets/img/open5gs-logo.png){: height="128px" width="512" style="float:left; padding:40px" }
+![Open5GS](https://open5gs.org/assets/img/open5gs-logo.png){: height="128px" width="512px" style="padding:40px" }
 
 
 ## Home
