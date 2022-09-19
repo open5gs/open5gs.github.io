@@ -1,6 +1,6 @@
-title: Open5GS
+title: " "
 theme: jekyll-theme-architect
 email: acetcom@gmail.com
 google_analytics: UA-139225646-1
 description: >- # this means to ignore newlines until "baseurl:"
- Open source project of 5GC and EPC (Release-16)
+ Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-16)
