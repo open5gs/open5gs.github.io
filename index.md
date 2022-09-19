@@ -28,9 +28,6 @@ If you find Open5GS useful for work, please consider supporting this Open Source
 </a>
 
 #### Silver Sponsors
-<a href="https://nextepc.com/" target="_blank">
-  <img src="https://open5gs.org/assets/img/nextepc_logo.jpg" style="width: 140px; vertical-align: middle; padding: 10px;" alt="NextEPC">
-</a>
 <a href="https://www.wearetriple.com/" target="_blank">
   <img src="https://open5gs.org/assets/img/triple_logo.png" style="width: 140px; vertical-align: middle; padding: 10px;" alt="Triple">
 </a>
