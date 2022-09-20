@@ -4,7 +4,7 @@
 
 <br/>
 
-## Home
+## <a name="home" />Home
 
 This project can be used to configure your own NR/LTE network. If gNB/eNB and USIM are available, you can build a private network using Open5GS.
 
@@ -13,7 +13,7 @@ Open5GS implemented 5GC and EPC using C-language. And WebUI is provided for test
 For more information, visit to our blog :
 - [https://open5gs.org/open5gs](https://open5gs.org/open5gs)
 
-## Becoming a sponsor
+## <a name="sponsors" />Becoming a sponsor
 
 If you find Open5GS useful for work, please consider supporting this Open Source project by [Becoming a sponsor](https://github.com/sponsors/acetcom). To manage the funding transactions transparently, you can donate through [OpenCollective](https://opencollective.com/open5gs).
 
