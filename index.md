@@ -17,6 +17,8 @@ For more information, visit to our blog :
 
 If you find Open5GS useful for work, please consider supporting this Open Source project by [Becoming a sponsor](https://github.com/sponsors/acetcom). To manage the funding transactions transparently, you can donate through [OpenCollective](https://opencollective.com/open5gs).
 
+![Sponsors](https://open5gs.org/assets/img/sponsors.svg){:width="80%" }
+
 #### Platinum Sponsors
 <a href="https://teletresearch.com/" target="_blank">
   <img src="https://open5gs.org/assets/img/Telet-logo-v2.png" style="width: 280px; vertical-align: middle; margin: 10px;" alt="Telet Research">
