@@ -19,12 +19,15 @@ If you find Open5GS useful for work, please consider supporting this Open Source
 
 #### Platinum Sponsors
 <a href="https://teletresearch.com/" target="_blank">
-  <img src="https://open5gs.org/assets/img/Telet-logo-v2.png" style="width: 280px; vertical-align: middle; margin: 10px;" alt="Telet Research">
+  <img src="https://open5gs.org/assets/img/Telet-logo-v2.png" style="width: 300px; vertical-align: middle; margin: 10px;" alt="Telet Research">
 </a>
 
 #### Gold Sponsors
 <a href="http://wavemobile.com/" target="_blank">
-  <img src="https://open5gs.org/assets/img/Wavemobile-Logo-Mark-RGB.png" style="width: 140px; vertical-align: middle; margin: 10px;" alt="Wavemobile">
+  <img src="https://open5gs.org/assets/img/Wavemobile-Logo-Mark-RGB.png" style="width: 150px; vertical-align: middle; margin: 10px;" alt="Wavemobile">
+</a>
+<a href="https://www.voicenter.com/" target="_blank">
+  <img src="https://open5gs.org/assets/img/voicenter-app-logo.svg" style="width: 200px; vertical-align: middle; padding: 10px;" alt="voicenter">
 </a>
 
 #### Silver Sponsors
@@ -45,7 +48,4 @@ If you find Open5GS useful for work, please consider supporting this Open Source
 </a>
 <a href="http://www.bristol.ac.uk/engineering/research/smart/" target="_blank">
   <img src="https://open5gs.org/assets/img/smart-internet-lab.png" style="width: 140px; vertical-align: middle; padding: 10px;" alt="smartlabuk">
-</a>
-<a href="https://www.voicenter.com/" target="_blank">
-  <img src="https://open5gs.org/assets/img/voicenter-app-logo.svg" style="width: 140px; vertical-align: middle; padding: 10px;" alt="voicenter">
 </a>
