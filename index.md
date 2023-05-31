@@ -49,6 +49,6 @@ If you find Open5GS useful for work, please consider supporting this Open Source
 <a href="http://www.bristol.ac.uk/engineering/research/smart/" target="_blank">
   <img src="https://open5gs.org/assets/img/smart-internet-lab.png" style="width: 140px; vertical-align: middle; padding: 10px;" alt="smartlabuk">
 </a>
-<a href="https://www.rakwireless.com/" target="_blank">
+<a href="https://www.rakwireless.com/en-us/5g" target="_blank">
   <img src="https://open5gs.org/assets/img/RAK-rgb.svg" style="width: 140px; vertical-align: middle; padding: 10px;" alt="smartlabuk">
 </a>
