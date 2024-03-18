@@ -24,7 +24,7 @@ If you find Open5GS useful for work, please consider supporting this Open Source
 
 #### Platinum Sponsors
 <a href="https://teletresearch.com/" target="_blank">
-  <img src="https://open5gs.org/assets/img/Telet-logo-v3.png" style="width: 200px; vertical-align: middle; margin: 10px;" alt="Telet Research">
+  <img src="https://open5gs.org/assets/img/Telet-logo-v3.png" style="width: 250px; vertical-align: middle; margin: 10px;" alt="Telet Research">
 </a>
 
 #### Gold Sponsors
