@@ -10,8 +10,11 @@ This project can be used to configure your own NR/LTE network. If gNB/eNB and US
 
 Open5GS implemented 5GC and EPC using C-language. And WebUI is provided for testing purposes and is implemented in Node.JS and React.
 
-For more information, visit to our blog :
-- [https://open5gs.org/open5gs](https://open5gs.org/open5gs)
+For more information, visit:
+
+- our blog at [https://open5gs.org/open5gs](https://open5gs.org/open5gs)
+- the documentation at [./open5gs/docs/](./open5gs/docs/)
+- the repository at [https://github.com/open5gs/open5gs](https://github.com/open5gs/open5gs)
 
 ## <a name="sponsors" />Becoming a sponsor
 
