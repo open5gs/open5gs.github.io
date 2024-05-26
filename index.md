@@ -34,9 +34,6 @@ If you find Open5GS useful for work, please consider supporting this Open Source
 <a href="http://wavemobile.com/" target="_blank">
   <img src="https://open5gs.org/assets/img/Wavemobile-Logo-Mark-RGB.png" style="width: 150px; vertical-align: middle; margin: 10px;" alt="Wavemobile">
 </a>
-<a href="https://www.voicenter.com/" target="_blank">
-  <img src="https://open5gs.org/assets/img/voicenter-app-logo.svg" style="width: 200px; vertical-align: middle; padding: 10px;" alt="voicenter">
-</a>
 <a href="https://www.coraltele.com/industry-verticals/private-5g-networks-coral-air-cnpn" target="_blank">
   <img src="https://open5gs.org/assets/img/Coral-Logo-364X272.jpg" style="width: 200px; vertical-align: middle; padding: 10px;" alt="Corel Telecom">
 </a>
@@ -56,6 +53,9 @@ If you find Open5GS useful for work, please consider supporting this Open Source
 </a>
 <a href="https://www.ng-voice.com/" target="_blank">
   <img src="https://open5gs.org/assets/img/ng-voice-logo_color.png" style="width: 140px; vertical-align: middle; padding: 10px;" alt="ng-voice">
+</a>
+<a href="https://www.voicenter.com/" target="_blank">
+  <img src="https://open5gs.org/assets/img/voicenter-app-logo.svg" style="width: 140px; vertical-align: middle; padding: 10px;" alt="voicenter">
 </a>
 <a href="https://www.rakwireless.com/en-us/5g" target="_blank">
   <img src="https://open5gs.org/assets/img/RAK-rgb.svg" style="width: 140px; vertical-align: middle; padding: 10px;" alt="smartlabuk">
