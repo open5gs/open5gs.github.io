@@ -4,17 +4,28 @@
 
 <br/>
 
-## <a name="home" />Home
+## <a name="home" />Welcome to Open5GS
 
-This project can be used to configure your own NR/LTE network. If gNB/eNB and USIM are available, you can build a private network using Open5GS.
+Open5GS is an advanced, open-source project designed for building and managing your own NR/LTE mobile network. Whether you’re setting up a private network for testing, research, or deployment, Open5GS offers a robust solution for configuring both 5G (NR) and LTE (evolved) networks.
 
-Open5GS implemented 5GC and EPC using C-language. And WebUI is provided for testing purposes and is implemented in Node.JS and React.
+## Project Highlights:
+- **Flexible Network Configuration**: Open5GS enables you to configure your own NR (New Radio) and LTE (Long Term Evolution) network. With compatible gNB (gNodeB) and eNB (evolved NodeB) hardware, along with USIM (Universal Subscriber Identity Module), you can establish a private mobile network tailored to your needs.
 
-For more information, visit:
+- **Comprehensive Core Network Implementation**: Our project includes a full implementation of both the 5G Core (5GC) and Evolved Packet Core (EPC), developed using the C programming language. This ensures a high-performance and reliable core network infrastructure.
 
-- our blog at [https://open5gs.org/open5gs](https://open5gs.org/open5gs)
-- the documentation at [https://open5gs.org/open5gs/docs/](https://open5gs.org/open5gs/docs/)
-- the repository at [https://github.com/open5gs/open5gs](https://github.com/open5gs/open5gs)
+- **User-Friendly Web Interface**: For ease of use and management, Open5GS provides a Web User Interface (WebUI) developed with Node.js and React. This interface is designed to facilitate testing, configuration, and monitoring of your network setup.
+
+- **Open Source and Community-Driven**: Open5GS is hosted on GitHub, where you can access the source code, contribute to the project, and engage with a vibrant community of developers and users.
+
+## Get Started with Open5GS:
+
+- **Explore Our [Blog](https://open5gs.org/open5gs)**: Stay updated with the latest news, tutorials, and insights related to Open5GS.
+
+- **Read the [Documentation](https://open5gs.org/open5gs/docs/)**: Access detailed guides and instructions on setting up and using Open5GS to make the most of its features.
+
+- **Visit the [GitHub Repository](https://github.com/open5gs/open5gs)**: View the source code, report issues, and contribute to the project on GitHub.
+
+Discover how Open5GS can transform your network capabilities with cutting-edge technology and an active community support.
 
 ## <a name="sponsors" />Becoming a sponsor
 
