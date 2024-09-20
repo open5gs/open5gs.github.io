@@ -34,7 +34,7 @@ If you find Open5GS valuable for your work, please consider supporting this open
 <a href="http://wavemobile.com/" target="_blank">
   <img src="https://open5gs.org/assets/img/Wavemobile-Logo-Mark-RGB.png" style="width: 150px; vertical-align: middle; margin: 10px;" alt="Wavemobile">
 </a>
-<a href="https://www.coraltele.com/industry-verticals/private-5g-networks-coral-air-cnpn" target="_blank">
+<a href="https://www.coraltele.com/product/coral-air-converged-private-network/" target="_blank">
   <img src="https://open5gs.org/assets/img/Coral-Logo-364X272.jpg" style="width: 200px; vertical-align: middle; padding: 10px;" alt="Corel Telecom">
 </a>
 
@@ -65,4 +65,7 @@ If you find Open5GS valuable for your work, please consider supporting this open
 </a>
 <a href="https://kontron-slovenia.com/solutions/mobile-private-newtorks/mpn-professional-services/" target="_blank">
   <img src="https://open5gs.org/assets/img/kontron_Logo-RGB-2C.png" style="width: 140px; vertical-align: middle; padding: 10px;" alt="smartlabuk">
+</a>
+<a href="https://limitlessmobile.com/" target="_blank">
+  <img src="https://open5gs.org/assets/img/limitless-logo.png" style="width: 140px; vertical-align: middle; padding: 10px;" alt="smartlabuk">
 </a>
