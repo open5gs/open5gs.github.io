@@ -25,11 +25,6 @@ If you find Open5GS valuable for your work, please consider supporting this open
   <img src="https://open5gs.org/assets/img/mobi-open5GS.png" style="width: 300px; vertical-align: middle; margin: 10px;" alt="Mobi">
 </a>
 
-#### Platinum Sponsors
-<a href="https://teletresearch.com/" target="_blank">
-  <img src="https://open5gs.org/assets/img/Telet-logo-v3.png" style="width: 250px; vertical-align: middle; margin: 10px;" alt="Telet Research">
-</a>
-
 #### Gold Sponsors
 <a href="http://wavemobile.com/" target="_blank">
   <img src="https://open5gs.org/assets/img/Wavemobile-Logo-Mark-RGB.png" style="width: 150px; vertical-align: middle; margin: 10px;" alt="Wavemobile">
