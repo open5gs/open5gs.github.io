@@ -46,9 +46,6 @@ If you find Open5GS valuable for your work, please consider supporting this open
 <a href="https://www.p1sec.com/" target="_blank">
   <img src="https://open5gs.org/assets/img/2021-logo-P1.svg" style="width: 140px; vertical-align: middle; padding: 10px;" alt="P1 Security">
 </a>
-<a href="https://www.ng-voice.com/" target="_blank">
-  <img src="https://open5gs.org/assets/img/ng-voice-logo_color.png" style="width: 140px; vertical-align: middle; padding: 10px;" alt="ng-voice">
-</a>
 <a href="https://www.voicenter.com/" target="_blank">
   <img src="https://open5gs.org/assets/img/voicenter-app-logo.svg" style="width: 140px; vertical-align: middle; padding: 10px;" alt="voicenter">
 </a>
