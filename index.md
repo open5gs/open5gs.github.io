@@ -18,7 +18,7 @@ Discover how Open5GS can transform your network capabilities with cutting-edge t
 
 ## <a name="sponsors" />Becoming a sponsor
 
-If you find Open5GS valuable for your work, please consider supporting this open-source project by [becoming a sponsor](https://github.com/sponsors/acetcom). To ensure transparent management of funding, you can make donations through [OpenCollective](https://opencollective.com/open5gs) or [Buy Me a Coffee](buymeacoffee.com/acetcom).
+If you find Open5GS valuable for your work, please consider supporting this open-source project by [becoming a sponsor](https://github.com/sponsors/acetcom). To ensure transparent management of funding, you can make donations through [OpenCollective](https://opencollective.com/open5gs) or [Buy Me a Coffee](https://buymeacoffee.com/acetcom).
 
 #### Special Sponsors
 <a href="https://mobi.com/" target="_blank">
