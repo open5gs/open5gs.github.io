@@ -37,9 +37,6 @@ If you find Open5GS valuable for your work, please consider supporting this open
 <a href="https://www.wearetriple.com/" target="_blank">
   <img src="https://open5gs.org/assets/img/triple_logo.png" style="width: 140px; vertical-align: middle; padding: 10px;" alt="Triple">
 </a>
-<a href="https://sdr.eee.strath.ac.uk/" target="_blank">
-  <img src="https://open5gs.org/assets/img/strath.png" style="width: 140px; vertical-align: middle; padding: 10px;" alt="University of Strathclyde">
-</a>
 <a href="https://sysmocom.de/" target="_blank">
   <img src="https://open5gs.org/assets/img/sysmocom-logo-only.png" style="width: 140px; vertical-align: middle; padding: 10px;" alt="sysmocom">
 </a>
@@ -60,7 +57,4 @@ If you find Open5GS valuable for your work, please consider supporting this open
 </a>
 <a href="https://kontron-slovenia.com/solutions/mobile-private-newtorks/mpn-professional-services/" target="_blank">
   <img src="https://open5gs.org/assets/img/kontron_Logo-RGB-2C.png" style="width: 140px; vertical-align: middle; padding: 10px;" alt="smartlabuk">
-</a>
-<a href="https://limitlessmobile.com/" target="_blank">
-  <img src="https://open5gs.org/assets/img/limitless-logo.png" style="width: 140px; vertical-align: middle; padding: 10px;" alt="smartlabuk">
 </a>
