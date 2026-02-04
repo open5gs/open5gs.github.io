@@ -20,11 +20,6 @@ Discover how Open5GS can transform your network capabilities with cutting-edge t
 
 If you find Open5GS valuable for your work, please consider supporting this open-source project by [becoming a sponsor](https://github.com/sponsors/acetcom). To ensure transparent management of funding, you can make donations through [OpenCollective](https://opencollective.com/open5gs) or [Buy Me a Coffee](https://buymeacoffee.com/acetcom).
 
-#### Special Sponsors
-<a href="https://mobi.com/" target="_blank">
-  <img src="https://open5gs.org/assets/img/mobi-open5GS.png" style="width: 300px; vertical-align: middle; margin: 10px;" alt="Mobi">
-</a>
-
 #### Gold Sponsors
 <a href="http://wavemobile.com/" target="_blank">
   <img src="https://open5gs.org/assets/img/Wavemobile-Logo-Mark-RGB.png" style="width: 150px; vertical-align: middle; margin: 10px;" alt="Wavemobile">
