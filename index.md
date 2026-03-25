@@ -44,9 +44,6 @@ If you find Open5GS valuable for your work, please consider supporting this open
 <a href="https://www.rakwireless.com/en-us/5g" target="_blank">
   <img src="https://open5gs.org/assets/img/RAK-rgb.svg" style="width: 140px; vertical-align: middle; padding: 10px;" alt="smartlabuk">
 </a>
-<a href="https://virtuser.com/" target="_blank">
-  <img src="https://open5gs.org/assets/img/Virtuser-logo-3@4x-8.png" style="width: 140px; vertical-align: middle; padding: 10px;" alt="smartlabuk">
-</a>
 <a href="https://www.accelleran.com" target="_blank">
   <img src="https://open5gs.org/assets/img/Accelleran_NewLogo_NoBaseline.jpg" style="width: 140px; vertical-align: middle; padding: 10px;" alt="Accelleran">
 </a>
