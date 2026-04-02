@@ -50,3 +50,6 @@ If you find Open5GS valuable for your work, please consider supporting this open
 <a href="https://kontron-slovenia.com/solutions/mobile-private-newtorks/mpn-professional-services/" target="_blank">
   <img src="https://open5gs.org/assets/img/kontron_Logo-RGB-2C.png" style="width: 140px; vertical-align: middle; padding: 10px;" alt="smartlabuk">
 </a>
+<a href="https://www.n-ix.com/" target="_blank">
+  <img src="https://open5gs.org/assets/img/nix-logo-grey-orange.png" style="width: 140px; vertical-align: middle; padding: 10px;" alt="smartlabuk">
+</a>
