@@ -18,7 +18,7 @@ Discover how Open5GS can transform your network capabilities with cutting-edge t
 
 ## <a name="history" />History of Open5GS
 
-Open5GS began in February 2017 under the name NextEPC, initially focusing on LTE EPC. Its first public release followed on October 9, 2017—Hangeul Day, South Korea’s celebration of the Korean alphabet.
+Open5GS began in February 2017 under the name NextEPC, initially focusing on LTE EPC. Its first public release followed on October 9, 2017.
 
 The project was renamed Open5GS in October 2019. In August 2020, version 2.0.0 added 5G Core support alongside LTE EPC. Development continues with contributions and support from the open-source telecommunications community.
 
