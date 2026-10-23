@@ -16,9 +16,15 @@ Open5GS is an advanced, open-source project designed for building and managing y
 
 Discover how Open5GS can transform your network capabilities with cutting-edge technology and an active community support.
 
+## <a name="history" />History of Open5GS
+
+Open5GS began in February 2017 under the name NextEPC, initially focusing on LTE EPC. Its first public release followed on October 9, 2017—Hangeul Day, South Korea’s celebration of the Korean alphabet.
+
+The project was renamed Open5GS in October 2019. In August 2020, version 2.0.0 added 5G Core support alongside LTE EPC. Development continues with contributions and support from the open-source telecommunications community.
+
 ## <a name="sponsors" />Becoming a sponsor
 
-If you find Open5GS valuable for your work, please consider supporting this open-source project by [becoming a sponsor](https://github.com/sponsors/acetcom). To ensure transparent management of funding, you can make donations through [OpenCollective](https://opencollective.com/open5gs) or [Buy Me a Coffee](https://buymeacoffee.com/acetcom).
+If you find Open5GS valuable for your work, please consider supporting this open-source project by [becoming a sponsor](https://github.com/sponsors/acetcom). To ensure transparent management of funding, you can make donations through [OpenCollective](https://opencollective.com/open5gs)
 
 #### Gold Sponsors
 <a href="http://wavemobile.com/" target="_blank">
@@ -43,9 +49,6 @@ If you find Open5GS valuable for your work, please consider supporting this open
 </a>
 <a href="https://www.rakwireless.com/en-us/5g" target="_blank">
   <img src="https://open5gs.org/assets/img/RAK-rgb.svg" style="width: 140px; vertical-align: middle; padding: 10px;" alt="smartlabuk">
-</a>
-<a href="https://www.accelleran.com" target="_blank">
-  <img src="https://open5gs.org/assets/img/Accelleran_NewLogo_NoBaseline.jpg" style="width: 140px; vertical-align: middle; padding: 10px;" alt="Accelleran">
 </a>
 <a href="https://kontron-slovenia.com/solutions/mobile-private-newtorks/mpn-professional-services/" target="_blank">
   <img src="https://open5gs.org/assets/img/kontron_Logo-RGB-2C.png" style="width: 140px; vertical-align: middle; padding: 10px;" alt="smartlabuk">
